@@ -26,6 +26,7 @@
 ## References
 
 - [Classic Arcade Game Clone Starter Project](https://github.com/udacity/frontend-nanodegree-arcade-game)
+- [Classic Arcade Game Clone Project Rubric](https://review.udacity.com/?_ga=1.242571394.1230547285.1451946706#!/rubrics/15/view)
 
 ## Resources
 
